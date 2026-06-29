@@ -1,4 +1,4 @@
-package org.siba.cloud;
+package org.siba.cloud.simulation;
 
 import org.siba.cloud.controller.SimulationController;
 
